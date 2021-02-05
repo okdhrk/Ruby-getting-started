@@ -9,4 +9,4 @@ puts true.to_s
 # false
 puts false.to_s
 # 正規表現
-puts /\d+/.to_s
+puts git /\d+/.to_s
