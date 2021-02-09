@@ -10,3 +10,4 @@ puts 'abc' < 'def'
 puts 'abc' < 'ab'
 puts 'abc' < 'abcd'
 puts 'あいうえお' < 'かきくけこ'
+
